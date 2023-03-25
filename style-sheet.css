@@ -1,0 +1,71 @@
+
+/******************************** Tag Selector **************************/
+body {
+    
+    background-color:hsl(212, 45%, 89%);
+    text-align:center;
+
+ }
+
+
+ div {
+
+    width: 22%;
+    background-color: white;
+    margin: 10% auto 10% auto;
+    border-radius: 20px;
+    height: 50%;
+    padding-bottom: 3%;
+    box-shadow: 5px 5px 10px hsl(214, 15%, 82%);
+
+
+ }
+
+
+img {
+
+    width: 90%;
+    margin-top: 5%;
+    border-radius: 5%;
+    
+
+}
+
+ /******************************** Class Selector **************************/
+
+
+
+.title {
+
+    font-size: 1.4rem;
+    font-weight: 700;
+    font-family: 'Outfit', sans-serif;
+    margin: 8% 7%;
+    color: hsl(218, 44%, 22%);
+    
+}
+
+.text {
+
+    font-weight: 400;
+    font-family: 'Outfit', sans-serif;
+    margin: 0% 9%;
+    color: hsl(220, 15%, 55%);
+
+}
+
+.c {
+
+    color:rgb(181, 180, 180);
+    margin-bottom: 5px;
+
+
+}
+
+
+
+
+
+
+
+ /******************************** ID Selector **************************/
